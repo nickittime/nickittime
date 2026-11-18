@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### Software Engineer Trainee (fresher) · C++ · C · Python
+### Software Developer (fresher) · C++ · C · Python
 
 Final-year B.E. Information Science student in Bengaluru.<br>
 I build small systems and test them properly, in C++ and Python.
